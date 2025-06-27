@@ -1,0 +1,35 @@
+{
+  "name": "Lakshmi Devi",
+  "age": 28,
+  "phone": "9876543210",
+  "location": "Guntur",
+  "marital_status": "Married",
+  "education": "Graduate",
+  "occupation": "Housewife",
+  "is_working": "No",
+  "languages": "Telugu, Hindi",
+
+  "height": 160,
+  "weight": 65,
+  "bp": "120/80",
+  "sugar": 90,
+  "existing_conditions": "Thyroid",
+  "family_history": "Heart disease",
+  "allergies": "Dust",
+
+  "pregnancy_stage": "Second Trimester",
+  "edd": "2025-10-15",
+  "gravida": 2,
+  "para": 1,
+  "complications": "None",
+  "nutrition": "Iron, Folic Acid",
+
+  "activity_level": "Moderately Active",
+  "sleep_hours": 7,
+  "addictions": "None",
+  "travel_distance": 3,
+
+  "additional_history": "Mild Anemia",
+  "doctor_notes": "Healthy progress"
+}
+
